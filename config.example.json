@@ -1,0 +1,4 @@
+{
+  "DB_USER": "json_user",
+  "API_URL": "https://api.example.com"
+}
